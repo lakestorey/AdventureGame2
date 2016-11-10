@@ -132,7 +132,7 @@ namespace LostV2
                 case 0:  //start scene 
                     outputLabel.Text = "Welcome to Mage Quest! M controls the red button and B controls" +
                     "the blue button; please select continue";
-                    redLabel.Text = "Continue";
+                    redLabel.Text = "Continue"; 
                     break;
                 case 1:
                     outputLabel.Text = "You are a young mage travelling between cities you come " +
